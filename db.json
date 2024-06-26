@@ -110,5 +110,17 @@
       "shortTitle": "Panda Panda Panda",
       "shortViews": "1.7M views"
     }
+  ],
+  "communityPost": [
+    {
+      "id": 3001,
+      "channelName": "Dark design patterns",
+      "channelAvatar": "https://s3-alpha-sig.figma.com/img/fd9c/33f0/4d57585d094b8b3c2e1c14afea6f8599?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RQRdu8Q9wMRB4UV85roEDtmFP~KndPsQUrlLa6FNfTrROsIn5gOnYmbpBFCZm6CWureDv0LQin4ibE0ne9zOYRbDeSnmkxmz~d4LpY-sugUbIxMcEvkwIwniKivCDLYdavUHinQiGDwS~ZWcQN1Pqo2QAac4tshN5HZC-D2u-kVcJVqsd54CrQYN-0uhq9uwnIogXDDntBt1X1wgmFPbHzZAqruVY3r3ZCrMJEg1ZziDfZ8PimQIzmhfwUBoKtOAGb198PgO61fZ0ZuYjMnditU24hqkrzW0IutD6vveSW-XhI9IeM7nmiMihUD~nvSON67tYl8Shc8~aLf~guD2qQ__",
+      "postContent": "Dark design patterns are like a sneaky salesperson trying to trick you into buying something you don't want, except they're dressed up in a designer suit and hiding behind a website."
+    },
+    {
+      "id": 30002,
+      "question": "Question"
+    }
   ]
 }
