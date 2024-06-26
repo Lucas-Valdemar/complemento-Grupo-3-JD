@@ -2,7 +2,7 @@
   "youtubeVideos": [
     {
       "id": 1001,
-      "channelname": "NASA",
+      "channelName": "NASA",
       "channelAvatar": "https://s3-alpha-sig.figma.com/img/9b23/1cdb/cbe2005fb36cb7328ec6db41583db965?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pxbxMQeh-UjRueKfSDPPQZs3wwmsahYjZGCnTITetApJvhjPxNikY6~aBBKHf8s8biuVVMfn1H5MUCdBhWMeq2MRAhru6EGufRBi9hOhHqomXgBIKfjX4vwCWLSIGG8wxczmmNtiUn5zF-Up0WXhBkp6WBdx8m1ivPPvi7PZJeMqopSNCQjwo-8SMIMq8dbwcaLPYzA~zAEmJ4IfDVJ9YJm7XQrtWmOG0q82M2ei2xM3yBAyxF5cuw1cgVrajIqMkHco54Zr5xlBmPSniZffWret0UnJsUhje~f1h4kTujSPsHXWqzVMCU5gww6Qyz~MnnaTfLGl2UIsk0ffg0ntkA__",
       "videoTitle": "Breaking! NASA discovers alien life on Mars",
       "videoThumb": "https://s3-alpha-sig.figma.com/img/89c2/2b09/3e8f01415fe1b0f730102956569c0f14?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Glr~Jn7CswrfxzA2N-TX5JbG4LeIF3rF9QyJJsYkLMAgwK0DAU3zuUYK1GyLuV-kV5tEbPj6aSpaz0SitfmvFGlPbdpYDpaornO571WfFdy7lE30gJM67SD1dTxeCTdS~quH-ztTsp6a3J20j0gGrY~qrMvnKbvcjRB~WifiDd5wiImzmqd-Gx3-UvaauMyJCes0q4fxj~DLPqnAEXPEp8Gs68WMgH8a3HnlCm3qx7axHEVM4tttxwv04WWoiCQBqUeAIUWpfdlWWrFyQGZ2gLcgAnhyEUGAe1Cc3Zb2Ac6vmEMW2W1iWVaEPp73awV2UpqQO7IJss-WfgMRyO6ssA__",
@@ -11,7 +11,7 @@
     },
     {
       "id": 1002,
-      "channelname": "BoomChannel",
+      "channelName": "BoomChannel",
       "channelAvatar": "https://www.figma.com/file/VpSUGOloujPqz3w40RWlWl/image/774fe784e32c5460c30a17c926c6c484fc41f40c",
       "videoTitle": "Volcano goes boom",
       "videoThumb": "https://s3-alpha-sig.figma.com/img/1a11/68bf/c73db903085a1865c21d5ca4f1632b58?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=b3DDOXpElIyW0ec24VMACzzyBHayX3bhSFrh926ip56tZjb8zEsTiffoVANEr1b0HAzu~FxJ29YDwVKP0n3McVYutJN7zIQecwOiicQ04jc1VvZ9AlGI1Dc8hVnZtXSXcwREX0FdyBzBtM5q1jHtFpQk6EQNca-GgkbrNC5iCE31rgp9YRYeAJKmbJBPngzDlnLI5rcGM-Wh3iUbbidAsOZcRkQWzp0Jm9vO8HQqpAKVSYRL2Cv9EvRhouaqu2NzCHhNSmL165pS6sjXzIRgDN3HPKmGiQgZqJr1UGXt6dX8eQdJcUnWHWtTBcCklFRA4whSW4wqjRDYzBuZzDXOWQ__",
@@ -20,7 +20,7 @@
     },
     {
       "id": 1003,
-      "channelname": "UxDesign",
+      "channelName": "UxDesign",
       "channelAvatar": "https://s3-alpha-sig.figma.com/img/c9d1/0001/680ab3079d1eb1d8def9a0b2eb6ba2d8?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KsdOceOrfaUVA9yQo1d5-Oi2swTD6cBXeK~2oNBFaJ7DYxXt58lgyOG6Lr4HuQmSRg6mWvM7bgIF0pCp5r3EzPmZ0baNaveMQohhQ0TwvxLHV1LAIQ5hZQkCUx6~Rtatoh9k4d-oAHt8DmDUKdkCLS3NOjBIgoVMIMPuYy8x8sAyg1SI6HQlBQbDIO~1JFB0eai--jtCVwjLcW7NW81YdMQjFbaGNeEmKfmJaeTaY3X9ICizuH4MxnhxWc0crt7xO8AePdLqRMoqXMfdUxYZzoP09HRmtP51RZZoP-Es37YL0DYkjZe4uh7KvzNoPil2Hv9zHwOfBqrSZus9oZgRhA__",
       "videoTitle": "DesignER-rrors",
       "videoThumb": "https://s3-alpha-sig.figma.com/img/dee7/94e9/cdda8be438ce85e743d0632098f1f559?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TtM0sVRH-KymXnWLFAV1Y8uZR8TDq143DTUHq1HUsqhPEi3An8CjHpnGSEQ8bZb7QLwsx5pLfNQpuATm0Jl0DNQNFUh736CZbaJKt1REMHrXNhuAPNc0aUOjJaD~72SivTaTyt63~FSA3E-eefcOBVav~bq-E7n0j6p1~neOryRAaMkBh513VwZ44va8nituzGeCVv~4VKppyLjuqgLaIN0WteHLmVuiqqM17Rm3-PRrpHI0x-1LZZKEAfvvoJkWWBncEmpqx9VcuksdwScbf3-kFvtF40bzhmyodh5r1dsj66zyk7wd8tWlIoOaTt6QDQIKT1nNCD91H61JKhWTLQ__",
@@ -29,7 +29,7 @@
     },
     {
       "id": 1004,
-      "channelname": "Bas",
+      "channelName": "Bas",
       "channelAvatar": "https://s3-alpha-sig.figma.com/img/2c1e/1d69/a50bf5cf9832702588634ec930482acb?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ASzvHRpCP1C~xFojH-xYevqaVuuSvHj1Bj78ZExmNGZ1WG5mph4MpvRhg1-CBfP3vhnE5pHxfvxDu7Og2rjsETJYXSG3WpuhIZ7Ye6cv4~QJnUqElbSjANADeduWfEMxPDTJvj1SlhPmbgmVdLpqw317MUGK6IAUW3gOLGGfHvSqtyEIieivBsWZC1~dc-I31R6WKSvQETnZIpldq53rGOzD0T2OwGoqJVJTPUwuiNJuefulz0FzVxN9G0W0AQHY0Km3D3k~5HUIaCSwwGx9U-9297XXlj82VD5dLm-XTk8gmP029OQ1iF0RCSIjdS478NNaftRBdStDI8uDH2pXBQ__",
       "videoTitle": "1 year traveling with my van in Europe!",
       "videoThumb": "https://s3-alpha-sig.figma.com/img/bbb1/37f5/5e108b06281dece391939a1cbed60c95?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GrZ8ARbsXFWcyuw-fUlKA~8uy2GWm6486aeh0HMl~vPa87Tqb9otuIw9RaZzEO2LX4XKPpDz3LsbfxX-PTUgfI3Nuqq1o4Xrc1VeUaD94d-nK2YYSdHZk8WNAsvC4G02Lm5G2D~-0ESY9v6vZ04rTP4Oq6D-MzH-xNA9TuNYI8kFwUD49p5hQUukP5BNTwse3Z691bd1Xfj-ejxRYZm7~uXPWBbxhlT~Zlu9UfXSTrrDMgVPCSzkYzSHtZcHqozYDLj2Xjd5p2BiU9jHpLuIK-1wPq9LWzXkXzsjAr~IzIfxmEvz19OtlwrsBRCViEmDeMYEFbesyDgYlFkdDIvz-g__",
@@ -38,7 +38,7 @@
     },
     {
       "id": 1005,
-      "channelname": "UIlover",
+      "channelName": "UIlover",
       "channelAvatar": "https://s3-alpha-sig.figma.com/img/bb01/375b/3e9614af5a0918cb06363199f8c43cfe?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bzkkBFvjIDgvMI6Jik2dC~dHGE81NTQ3MyE22LsiXLfbnoNrZtxS~GrOOuCaLaAMurFU-hwB4-vPvDDiwyy~-nN6qB3HloZ8lKFU0ccQD9npG-Gy~Weait2pf6vbzrcQJ5uNDP7Tde5mpoYxDS68jhFPjvVvien4JVzdIqRWIz0my3RrkW3vKKEZ23XXH-PkUX~54mJoqUMhsn~J6xetFcbjsGOYIWx6o9yU-3tQ~DQIjACI22zhENjp7ASSCOccjmkAHo4fFL-dl7oD9EXwQe-xVuW1WYBWD1rlnN2zy0QN5oYjq3gNH6WD4i5uDhkiyFeZUFLkpQdgZnnUa1ovoQ__",
       "videoTitle": "Random bubble designstuff",
       "videoThumb": "https://s3-alpha-sig.figma.com/img/2ff9/86da/1faa5835fcc0a981c193f76978a25f9d?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hKXDndVqt9h7C2E9XpEbSfmnFqzsHCEZPjeW1ZBYCko1ChHBdDcVo0s825ROH31HWQUSvVh8prQzO0TWeWMMME7vTM-VNR28VcUyQ0z4hoVGPTAwUcdR5cszI2W~d-pXtg44VF660l3kuNZSsxM1t4Z0Z6OEEHTHtq54F247kQ1DNJ1n-~Zxjxp5usran1A-J-MV9CzDvvbH0oqZo3z5LwB49NKsukea6RW1yVLKY5zM8H5sw2li0ddKghdOZssH4psKnnT0IqXVQnvlVfJH1kvuE7kNEFbBzP8s~ltYTUv7Ydeo35XsdiO5Zzm1clYH-V6S5uyctoUCLUDeDisGfA__",
@@ -47,7 +47,7 @@
     },
     {
       "id": 1006,
-      "channelname": "MrDesignosaur",
+      "channelName": "MrDesignosaur",
       "channelAvatar": "https://s3-alpha-sig.figma.com/img/74c6/4c86/e1bde6cf7c9d5ba84beb7e12eddd712d?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KVP12yUIwekYbq1B~ggWZqnLhajaur66NVrdCFp9aIfjzslixarc1OFcf0R0WU-jI-j2w3coz8VVkADNySWJAFWVphnOnu4RfHyzI1ZGSShZXri63qUcgToamMeftmwBxYk7kQ4szOA1BbZc3lxLePf0lBQNaiJXJ8ZY1qHIJAkAX-LEtOWg46KjhRynjRe40HoggLD5waHn1T-yxuU~Pirqu1gViBssmT6~JCBPbPSV4tN6Okt-mNy-l1bBAOAha7FENWY-F8D0jDK28iW3yRcy3ML-7NoAlXjux6-ZreHhH85PSOlJRDuZpgs~W3Nx4Z6V3rYXH-K93lcVai1KYA__",
       "videoTitle": "The Designosaur",
       "videoThumb": "https://s3-alpha-sig.figma.com/img/a0f5/3ded/e45755befca25738acd2ce6874f4e8bd?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GTMbojuNvtmNTCwTgXcO2NOPkCxxT-QDOBhF6k-pVf4AzxHHY2hgCE4ChOmU8I28rcB8Pz4W-UuUpWlsfPPxikMIqISFG7pHzOVoUowNdiJSJsRGYqt8m8s7125yWhKNFU5Kn4kSza9YU2QJmLJnERsAJVgfHAOTsvxKGt6wRvBlcXsLj1hlF8MnVcKElmAvpHxtkg~l~wNZzP8aWzw8srXS0Ttr86UV62QtDfBbMoyyQDmE0rfUj3MhLQR~kK8eIijHnT0JlxFlhr6qv9qhUmli4FauSl0UxIP8sRpqKMgfItbIYdaUqkHoqmOpfV98od6iOCxjqHp3-ZRFPXSwBA__",
@@ -56,7 +56,7 @@
     },
     {
       "id": 1007,
-      "channelname": "Figma",
+      "channelName": "Figma",
       "channelAvatar": "https://s3-alpha-sig.figma.com/img/b5bd/9404/2dd8a4e7c89e262e343a5db440b0e602?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ZNea3WpZfFwpH-7vZwX0nNVynWfyGlFnjTx20o59CXddmsL9uSA3LaE6sst8h1ImXtOZSa8DaA5i0EA096TvN2299gaJZY1reARVGLEao6AYrhRbeFZcTNZ9IPAvUA4CHVDozHAj2Wdpv9xuGbS6a1ur7NtaZ5rHTg1LU3vHAwnjp8o7e7m4qX2c0xsT1vC2qFxdptbwY54HY8XWepF0q15arpTHm8latnIkMaJ8XW4~SIaqgwt2exUByHO6ls9HiBaEG~hpAwn26WtmrlhOHFGxT~X9Eg18N1AK1T8RyCbjDgAJ7Gw7-mw947rqQuBhUergn5Mg~GYqlAIB9Woy6g__",
       "videoTitle": "Autolayout for the win!",
       "videoThumb": "https://s3-alpha-sig.figma.com/img/004b/9d4a/ef858c38f509e9f7eab17c0c72d2f615?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RabpyeR7KU6Se5X3dvDjr1kvA9BqL8n2n0nmxvQE3FRJWZvqXIQ9JvjiYSL1d9lOkM-NCubPTuT-GMBT1Kerm8JZ0A51t9IF4fGeFb-OG304CPL80FXvyeoaFbgWBO8s9nK03LVoSibX6Uane7ElZlY2NuNdTORv9xX2ZR~xhK9ME2FMARU~rLaAFepZJIxjawMJQn4kzpKD-rd7k4LeuyclHRPdFiSSB8NtB5fXABt-0WudXFkjKyZEOWyu5e5NNKkXoZ7ZaTcVLR0WhKdGdE73SAJrv0HoHoklYJhF7MlphidRvPtNrnr9uf1phX-HwW5zUja6kLxp9XwvlplhAA__",
@@ -65,7 +65,7 @@
     },
     {
       "id": 1008,
-      "channelname": "CatsWithHeads",
+      "channelName": "CatsWithHeads",
       "channelAvatar": "https://s3-alpha-sig.figma.com/img/cef6/70c5/4f82b507dce782329fa8b10237289ff9?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HR8t7Ouer~r1NI8JCt5U6H-ufyZiq6g0GULFsofKDWaFQtmbAhYMAK9yaFwpKKRS8s82kOMyp1JYAFZH6qA0q9xQKBUjRl1Hv3YV7jJFwkYd22~z~u8yRlTs88DRn8WCTk9bsOHDWPGxEj3nA8TKXaWfWUxdoF5u3FkW2QvXGOnkZAWnOfZ~deu108uui5xzrWFsMt1PvCM09TreJYjCvHzuOb2xvPFupPXmMSH48corc~sz2foJenvs7YI6NZU8VIJt6Q5QH1WsTkg554oFr~h8PY6V1dm7dNauill5CWwuetPcuinX1VTeUOc-8LN~-QoS8sUNjInxNkNWmtff6w__",
       "videoTitle": "Kitten fighting in bar over spilled milk caught on tape",
       "videoThumb": "https://s3-alpha-sig.figma.com/img/1c2a/ed20/45c7e5c2e5a21126a078a8d01a5e9e3f?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=I-qxxnIPdYbyyGBD0V3hYO-d2Z2NDSD0ibrTrpHO1VZ7ZLWtuECUR5Pcdb185~eI9-Ffv7mQ5OTBfCv3AaO4uB6Nxv-bYJfL4oEkDfaAWe8Te4oMbeuPvKKeXSakxb7JjuvIE3wGMqYl3Nc94JY2c7QFPD~C-HdhEFqjIud5QnNRW1qBH8w9GnflQk7CddAIY492vpjRfe~f8TziKLbjP1k3DbtQvBrab9Zub3GHxN~eN5QaDtCqkVRmL4Jd3yB~4FPkU9zqtXSx610h4YxUMtzz856cZA~inPBP2rPm0lWqNaa381whTsQCYT2T2qLVP3OGzmZ4BZaqChzsc-QVzQ__",
