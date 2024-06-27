@@ -36,7 +36,7 @@
       "videoViews": "1K views",
       "videoDate": "11 months ago",
       "thumbSettings": {
-        "object-position": "50% 75%"
+        "object_position": "50% 75%"
       }
     },
     {
@@ -78,7 +78,7 @@
       "videoViews": "9M views",
       "videoDate": "1 months ago",
       "thumbSettings": {
-        "object-position": "50% 12%"
+        "object_position": "50% 12%"
       }
     }
   ],
