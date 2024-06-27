@@ -34,7 +34,8 @@
       "videoTitle": "1 year traveling with my van in Europe!",
       "videoThumb": "https://s3-alpha-sig.figma.com/img/bbb1/37f5/5e108b06281dece391939a1cbed60c95?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GrZ8ARbsXFWcyuw-fUlKA~8uy2GWm6486aeh0HMl~vPa87Tqb9otuIw9RaZzEO2LX4XKPpDz3LsbfxX-PTUgfI3Nuqq1o4Xrc1VeUaD94d-nK2YYSdHZk8WNAsvC4G02Lm5G2D~-0ESY9v6vZ04rTP4Oq6D-MzH-xNA9TuNYI8kFwUD49p5hQUukP5BNTwse3Z691bd1Xfj-ejxRYZm7~uXPWBbxhlT~Zlu9UfXSTrrDMgVPCSzkYzSHtZcHqozYDLj2Xjd5p2BiU9jHpLuIK-1wPq9LWzXkXzsjAr~IzIfxmEvz19OtlwrsBRCViEmDeMYEFbesyDgYlFkdDIvz-g__",
       "videoViews": "1K views",
-      "videoDate": "11 months ago"
+      "videoDate": "11 months ago",
+      "thumbSettings": "object-position: 50% 75%"
     },
     {
       "id": 1005,
@@ -52,7 +53,8 @@
       "videoTitle": "The Designosaur",
       "videoThumb": "https://s3-alpha-sig.figma.com/img/a0f5/3ded/e45755befca25738acd2ce6874f4e8bd?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GTMbojuNvtmNTCwTgXcO2NOPkCxxT-QDOBhF6k-pVf4AzxHHY2hgCE4ChOmU8I28rcB8Pz4W-UuUpWlsfPPxikMIqISFG7pHzOVoUowNdiJSJsRGYqt8m8s7125yWhKNFU5Kn4kSza9YU2QJmLJnERsAJVgfHAOTsvxKGt6wRvBlcXsLj1hlF8MnVcKElmAvpHxtkg~l~wNZzP8aWzw8srXS0Ttr86UV62QtDfBbMoyyQDmE0rfUj3MhLQR~kK8eIijHnT0JlxFlhr6qv9qhUmli4FauSl0UxIP8sRpqKMgfItbIYdaUqkHoqmOpfV98od6iOCxjqHp3-ZRFPXSwBA__",
       "videoViews": "82K views",
-      "videoDate": "6 months ago"
+      "videoDate": "6 months ago",
+      "thumbSettings": "height: 100vw"
     },
     {
       "id": 1007,
@@ -70,7 +72,8 @@
       "videoTitle": "Kitten fighting in bar over spilled milk caught on tape",
       "videoThumb": "https://s3-alpha-sig.figma.com/img/1c2a/ed20/45c7e5c2e5a21126a078a8d01a5e9e3f?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=I-qxxnIPdYbyyGBD0V3hYO-d2Z2NDSD0ibrTrpHO1VZ7ZLWtuECUR5Pcdb185~eI9-Ffv7mQ5OTBfCv3AaO4uB6Nxv-bYJfL4oEkDfaAWe8Te4oMbeuPvKKeXSakxb7JjuvIE3wGMqYl3Nc94JY2c7QFPD~C-HdhEFqjIud5QnNRW1qBH8w9GnflQk7CddAIY492vpjRfe~f8TziKLbjP1k3DbtQvBrab9Zub3GHxN~eN5QaDtCqkVRmL4Jd3yB~4FPkU9zqtXSx610h4YxUMtzz856cZA~inPBP2rPm0lWqNaa381whTsQCYT2T2qLVP3OGzmZ4BZaqChzsc-QVzQ__",
       "videoViews": "9M views",
-      "videoDate": "1 months ago"
+      "videoDate": "1 months ago",
+      "thumbSettings": "object-position: 50% 12%"
     }
   ],
   "youtubeShorts": [
