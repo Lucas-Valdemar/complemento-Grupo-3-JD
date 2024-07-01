@@ -57,7 +57,8 @@
       "videoViews": "82K views",
       "videoDate": "6 months ago",
       "thumbSettings": {
-        "height": "100vw"
+        "height": "100vw",
+        "maxHeight": "calc(24.5625rem + 10vw)"
       }
     },
     {
